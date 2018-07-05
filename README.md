@@ -5,7 +5,11 @@ Dump and die
 ```
 $example = 'Hello World!';
 dd($example);
-helpers.php
+
+Result : 
+
+function.php
 ---------------------------------
 string 'Hello World!' (length=12)
 ```
+Thanks :)
