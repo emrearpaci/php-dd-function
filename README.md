@@ -12,7 +12,7 @@ function.php
 ---------------------------------
 string 'Hello World!' (length=12)
 ```
---
+---------------------------------
 ```
 $array = ['Hello World!' , 'Hello Turkey!'];
 dd($array);
