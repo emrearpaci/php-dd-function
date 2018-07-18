@@ -2,23 +2,23 @@
 Dump and die
 
 ## Sample
-```
 $example = 'Hello World!';
+
 dd($example);
 
-Result : 
-
+Result:
+``` 
 function.php
 ---------------------------------
 string 'Hello World!' (length=12)
 ```
 ---------------------------------
-```
 $array = ['Hello World!' , 'Hello Turkey!'];
+
 dd($array);
 
-Result : 
-
+Result:
+``` 
 function.php
 ---------------------------------
 array (size=2)
